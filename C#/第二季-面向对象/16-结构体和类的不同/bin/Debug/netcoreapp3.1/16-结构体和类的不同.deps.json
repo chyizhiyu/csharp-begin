@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "16-结构体和类的不同/1.0.0": {
+        "runtime": {
+          "16-结构体和类的不同.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "16-结构体和类的不同/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

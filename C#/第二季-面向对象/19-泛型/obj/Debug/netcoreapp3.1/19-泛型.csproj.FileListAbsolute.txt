@@ -1,0 +1,12 @@
+E:\VS Workspace\第二季-面向对象\19-泛型\bin\Debug\netcoreapp3.1\19-泛型.exe
+E:\VS Workspace\第二季-面向对象\19-泛型\bin\Debug\netcoreapp3.1\19-泛型.deps.json
+E:\VS Workspace\第二季-面向对象\19-泛型\bin\Debug\netcoreapp3.1\19-泛型.runtimeconfig.json
+E:\VS Workspace\第二季-面向对象\19-泛型\bin\Debug\netcoreapp3.1\19-泛型.runtimeconfig.dev.json
+E:\VS Workspace\第二季-面向对象\19-泛型\bin\Debug\netcoreapp3.1\19-泛型.dll
+E:\VS Workspace\第二季-面向对象\19-泛型\bin\Debug\netcoreapp3.1\19-泛型.pdb
+E:\VS Workspace\第二季-面向对象\19-泛型\obj\Debug\netcoreapp3.1\19-泛型.AssemblyInfoInputs.cache
+E:\VS Workspace\第二季-面向对象\19-泛型\obj\Debug\netcoreapp3.1\19-泛型.AssemblyInfo.cs
+E:\VS Workspace\第二季-面向对象\19-泛型\obj\Debug\netcoreapp3.1\19-泛型.csproj.CoreCompileInputs.cache
+E:\VS Workspace\第二季-面向对象\19-泛型\obj\Debug\netcoreapp3.1\19-泛型.dll
+E:\VS Workspace\第二季-面向对象\19-泛型\obj\Debug\netcoreapp3.1\19-泛型.pdb
+E:\VS Workspace\第二季-面向对象\19-泛型\obj\Debug\netcoreapp3.1\19-泛型.genruntimeconfig.cache

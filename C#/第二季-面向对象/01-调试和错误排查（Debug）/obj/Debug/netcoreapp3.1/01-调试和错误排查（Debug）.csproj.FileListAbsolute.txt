@@ -1,0 +1,13 @@
+E:\VS Workspace\第二季-面向对象\01-调试和错误排查（Debug）\bin\Debug\netcoreapp3.1\01-调试和错误排查（Debug）.exe
+E:\VS Workspace\第二季-面向对象\01-调试和错误排查（Debug）\bin\Debug\netcoreapp3.1\01-调试和错误排查（Debug）.deps.json
+E:\VS Workspace\第二季-面向对象\01-调试和错误排查（Debug）\bin\Debug\netcoreapp3.1\01-调试和错误排查（Debug）.runtimeconfig.json
+E:\VS Workspace\第二季-面向对象\01-调试和错误排查（Debug）\bin\Debug\netcoreapp3.1\01-调试和错误排查（Debug）.runtimeconfig.dev.json
+E:\VS Workspace\第二季-面向对象\01-调试和错误排查（Debug）\bin\Debug\netcoreapp3.1\01-调试和错误排查（Debug）.dll
+E:\VS Workspace\第二季-面向对象\01-调试和错误排查（Debug）\bin\Debug\netcoreapp3.1\01-调试和错误排查（Debug）.pdb
+E:\VS Workspace\第二季-面向对象\01-调试和错误排查（Debug）\obj\Debug\netcoreapp3.1\01-调试和错误排查（Debug）.csproj.AssemblyReference.cache
+E:\VS Workspace\第二季-面向对象\01-调试和错误排查（Debug）\obj\Debug\netcoreapp3.1\01-调试和错误排查（Debug）.AssemblyInfoInputs.cache
+E:\VS Workspace\第二季-面向对象\01-调试和错误排查（Debug）\obj\Debug\netcoreapp3.1\01-调试和错误排查（Debug）.AssemblyInfo.cs
+E:\VS Workspace\第二季-面向对象\01-调试和错误排查（Debug）\obj\Debug\netcoreapp3.1\01-调试和错误排查（Debug）.csproj.CoreCompileInputs.cache
+E:\VS Workspace\第二季-面向对象\01-调试和错误排查（Debug）\obj\Debug\netcoreapp3.1\01-调试和错误排查（Debug）.dll
+E:\VS Workspace\第二季-面向对象\01-调试和错误排查（Debug）\obj\Debug\netcoreapp3.1\01-调试和错误排查（Debug）.pdb
+E:\VS Workspace\第二季-面向对象\01-调试和错误排查（Debug）\obj\Debug\netcoreapp3.1\01-调试和错误排查（Debug）.genruntimeconfig.cache

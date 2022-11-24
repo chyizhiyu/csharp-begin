@@ -1,0 +1,27 @@
+E:\VS Workspace\CSharp编程第一季\030-字符串\bin\Debug\netcoreapp3.1\030-字符串.exe
+E:\VS Workspace\CSharp编程第一季\030-字符串\bin\Debug\netcoreapp3.1\030-字符串.deps.json
+E:\VS Workspace\CSharp编程第一季\030-字符串\bin\Debug\netcoreapp3.1\030-字符串.runtimeconfig.json
+E:\VS Workspace\CSharp编程第一季\030-字符串\bin\Debug\netcoreapp3.1\030-字符串.runtimeconfig.dev.json
+E:\VS Workspace\CSharp编程第一季\030-字符串\bin\Debug\netcoreapp3.1\030-字符串.dll
+E:\VS Workspace\CSharp编程第一季\030-字符串\bin\Debug\netcoreapp3.1\030-字符串.pdb
+E:\VS Workspace\CSharp编程第一季\030-字符串\obj\Debug\netcoreapp3.1\030-字符串.AssemblyInfoInputs.cache
+E:\VS Workspace\CSharp编程第一季\030-字符串\obj\Debug\netcoreapp3.1\030-字符串.AssemblyInfo.cs
+E:\VS Workspace\CSharp编程第一季\030-字符串\obj\Debug\netcoreapp3.1\030-字符串.csproj.CoreCompileInputs.cache
+E:\VS Workspace\CSharp编程第一季\030-字符串\obj\Debug\netcoreapp3.1\030-字符串.dll
+E:\VS Workspace\CSharp编程第一季\030-字符串\obj\Debug\netcoreapp3.1\030-字符串.pdb
+E:\VS Workspace\CSharp编程第一季\030-字符串\obj\Debug\netcoreapp3.1\030-字符串.genruntimeconfig.cache
+E:\VS Workspace\CSharp编程第一季\030-字符串\obj\Debug\netcoreapp3.1\030-字符串.csproj.AssemblyReference.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\030-字符串\bin\Debug\netcoreapp3.1\030-字符串.exe
+D:\Proj\csharp-begin\C#\CSharp编程第一季\030-字符串\bin\Debug\netcoreapp3.1\030-字符串.deps.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\030-字符串\bin\Debug\netcoreapp3.1\030-字符串.runtimeconfig.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\030-字符串\bin\Debug\netcoreapp3.1\030-字符串.runtimeconfig.dev.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\030-字符串\bin\Debug\netcoreapp3.1\030-字符串.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\030-字符串\bin\Debug\netcoreapp3.1\030-字符串.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\030-字符串\obj\Debug\netcoreapp3.1\030-字符串.csproj.AssemblyReference.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\030-字符串\obj\Debug\netcoreapp3.1\030-字符串.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proj\csharp-begin\C#\CSharp编程第一季\030-字符串\obj\Debug\netcoreapp3.1\030-字符串.AssemblyInfoInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\030-字符串\obj\Debug\netcoreapp3.1\030-字符串.AssemblyInfo.cs
+D:\Proj\csharp-begin\C#\CSharp编程第一季\030-字符串\obj\Debug\netcoreapp3.1\030-字符串.csproj.CoreCompileInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\030-字符串\obj\Debug\netcoreapp3.1\030-字符串.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\030-字符串\obj\Debug\netcoreapp3.1\030-字符串.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\030-字符串\obj\Debug\netcoreapp3.1\030-字符串.genruntimeconfig.cache

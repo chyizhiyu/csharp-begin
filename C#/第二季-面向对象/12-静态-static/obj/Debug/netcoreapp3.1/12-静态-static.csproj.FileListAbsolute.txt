@@ -1,0 +1,12 @@
+E:\VS Workspace\第二季-面向对象\12-静态-static\bin\Debug\netcoreapp3.1\12-静态-static.exe
+E:\VS Workspace\第二季-面向对象\12-静态-static\bin\Debug\netcoreapp3.1\12-静态-static.deps.json
+E:\VS Workspace\第二季-面向对象\12-静态-static\bin\Debug\netcoreapp3.1\12-静态-static.runtimeconfig.json
+E:\VS Workspace\第二季-面向对象\12-静态-static\bin\Debug\netcoreapp3.1\12-静态-static.runtimeconfig.dev.json
+E:\VS Workspace\第二季-面向对象\12-静态-static\bin\Debug\netcoreapp3.1\12-静态-static.dll
+E:\VS Workspace\第二季-面向对象\12-静态-static\bin\Debug\netcoreapp3.1\12-静态-static.pdb
+E:\VS Workspace\第二季-面向对象\12-静态-static\obj\Debug\netcoreapp3.1\12-静态-static.AssemblyInfoInputs.cache
+E:\VS Workspace\第二季-面向对象\12-静态-static\obj\Debug\netcoreapp3.1\12-静态-static.AssemblyInfo.cs
+E:\VS Workspace\第二季-面向对象\12-静态-static\obj\Debug\netcoreapp3.1\12-静态-static.csproj.CoreCompileInputs.cache
+E:\VS Workspace\第二季-面向对象\12-静态-static\obj\Debug\netcoreapp3.1\12-静态-static.dll
+E:\VS Workspace\第二季-面向对象\12-静态-static\obj\Debug\netcoreapp3.1\12-静态-static.pdb
+E:\VS Workspace\第二季-面向对象\12-静态-static\obj\Debug\netcoreapp3.1\12-静态-static.genruntimeconfig.cache

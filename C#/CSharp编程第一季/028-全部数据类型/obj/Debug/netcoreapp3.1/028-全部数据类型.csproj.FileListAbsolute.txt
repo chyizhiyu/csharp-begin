@@ -1,0 +1,27 @@
+E:\VS Workspace\CSharp编程第一季\028-全部数据类型\bin\Debug\netcoreapp3.1\028-全部数据类型.exe
+E:\VS Workspace\CSharp编程第一季\028-全部数据类型\bin\Debug\netcoreapp3.1\028-全部数据类型.deps.json
+E:\VS Workspace\CSharp编程第一季\028-全部数据类型\bin\Debug\netcoreapp3.1\028-全部数据类型.runtimeconfig.json
+E:\VS Workspace\CSharp编程第一季\028-全部数据类型\bin\Debug\netcoreapp3.1\028-全部数据类型.runtimeconfig.dev.json
+E:\VS Workspace\CSharp编程第一季\028-全部数据类型\bin\Debug\netcoreapp3.1\028-全部数据类型.dll
+E:\VS Workspace\CSharp编程第一季\028-全部数据类型\bin\Debug\netcoreapp3.1\028-全部数据类型.pdb
+E:\VS Workspace\CSharp编程第一季\028-全部数据类型\obj\Debug\netcoreapp3.1\028-全部数据类型.AssemblyInfoInputs.cache
+E:\VS Workspace\CSharp编程第一季\028-全部数据类型\obj\Debug\netcoreapp3.1\028-全部数据类型.AssemblyInfo.cs
+E:\VS Workspace\CSharp编程第一季\028-全部数据类型\obj\Debug\netcoreapp3.1\028-全部数据类型.csproj.CoreCompileInputs.cache
+E:\VS Workspace\CSharp编程第一季\028-全部数据类型\obj\Debug\netcoreapp3.1\028-全部数据类型.dll
+E:\VS Workspace\CSharp编程第一季\028-全部数据类型\obj\Debug\netcoreapp3.1\028-全部数据类型.pdb
+E:\VS Workspace\CSharp编程第一季\028-全部数据类型\obj\Debug\netcoreapp3.1\028-全部数据类型.genruntimeconfig.cache
+E:\VS Workspace\CSharp编程第一季\028-全部数据类型\obj\Debug\netcoreapp3.1\028-全部数据类型.csproj.AssemblyReference.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\028-全部数据类型\bin\Debug\netcoreapp3.1\028-全部数据类型.exe
+D:\Proj\csharp-begin\C#\CSharp编程第一季\028-全部数据类型\bin\Debug\netcoreapp3.1\028-全部数据类型.deps.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\028-全部数据类型\bin\Debug\netcoreapp3.1\028-全部数据类型.runtimeconfig.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\028-全部数据类型\bin\Debug\netcoreapp3.1\028-全部数据类型.runtimeconfig.dev.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\028-全部数据类型\bin\Debug\netcoreapp3.1\028-全部数据类型.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\028-全部数据类型\bin\Debug\netcoreapp3.1\028-全部数据类型.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\028-全部数据类型\obj\Debug\netcoreapp3.1\028-全部数据类型.csproj.AssemblyReference.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\028-全部数据类型\obj\Debug\netcoreapp3.1\028-全部数据类型.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proj\csharp-begin\C#\CSharp编程第一季\028-全部数据类型\obj\Debug\netcoreapp3.1\028-全部数据类型.AssemblyInfoInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\028-全部数据类型\obj\Debug\netcoreapp3.1\028-全部数据类型.AssemblyInfo.cs
+D:\Proj\csharp-begin\C#\CSharp编程第一季\028-全部数据类型\obj\Debug\netcoreapp3.1\028-全部数据类型.csproj.CoreCompileInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\028-全部数据类型\obj\Debug\netcoreapp3.1\028-全部数据类型.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\028-全部数据类型\obj\Debug\netcoreapp3.1\028-全部数据类型.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\028-全部数据类型\obj\Debug\netcoreapp3.1\028-全部数据类型.genruntimeconfig.cache

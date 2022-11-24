@@ -1,0 +1,27 @@
+E:\VS Workspace\CSharp编程第一季\031-编程题\bin\Debug\netcoreapp3.1\031-编程题.exe
+E:\VS Workspace\CSharp编程第一季\031-编程题\bin\Debug\netcoreapp3.1\031-编程题.deps.json
+E:\VS Workspace\CSharp编程第一季\031-编程题\bin\Debug\netcoreapp3.1\031-编程题.runtimeconfig.json
+E:\VS Workspace\CSharp编程第一季\031-编程题\bin\Debug\netcoreapp3.1\031-编程题.runtimeconfig.dev.json
+E:\VS Workspace\CSharp编程第一季\031-编程题\bin\Debug\netcoreapp3.1\031-编程题.dll
+E:\VS Workspace\CSharp编程第一季\031-编程题\bin\Debug\netcoreapp3.1\031-编程题.pdb
+E:\VS Workspace\CSharp编程第一季\031-编程题\obj\Debug\netcoreapp3.1\031-编程题.csproj.AssemblyReference.cache
+E:\VS Workspace\CSharp编程第一季\031-编程题\obj\Debug\netcoreapp3.1\031-编程题.AssemblyInfoInputs.cache
+E:\VS Workspace\CSharp编程第一季\031-编程题\obj\Debug\netcoreapp3.1\031-编程题.AssemblyInfo.cs
+E:\VS Workspace\CSharp编程第一季\031-编程题\obj\Debug\netcoreapp3.1\031-编程题.csproj.CoreCompileInputs.cache
+E:\VS Workspace\CSharp编程第一季\031-编程题\obj\Debug\netcoreapp3.1\031-编程题.dll
+E:\VS Workspace\CSharp编程第一季\031-编程题\obj\Debug\netcoreapp3.1\031-编程题.pdb
+E:\VS Workspace\CSharp编程第一季\031-编程题\obj\Debug\netcoreapp3.1\031-编程题.genruntimeconfig.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\031-编程题\bin\Debug\netcoreapp3.1\031-编程题.exe
+D:\Proj\csharp-begin\C#\CSharp编程第一季\031-编程题\bin\Debug\netcoreapp3.1\031-编程题.deps.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\031-编程题\bin\Debug\netcoreapp3.1\031-编程题.runtimeconfig.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\031-编程题\bin\Debug\netcoreapp3.1\031-编程题.runtimeconfig.dev.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\031-编程题\bin\Debug\netcoreapp3.1\031-编程题.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\031-编程题\bin\Debug\netcoreapp3.1\031-编程题.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\031-编程题\obj\Debug\netcoreapp3.1\031-编程题.csproj.AssemblyReference.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\031-编程题\obj\Debug\netcoreapp3.1\031-编程题.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proj\csharp-begin\C#\CSharp编程第一季\031-编程题\obj\Debug\netcoreapp3.1\031-编程题.AssemblyInfoInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\031-编程题\obj\Debug\netcoreapp3.1\031-编程题.AssemblyInfo.cs
+D:\Proj\csharp-begin\C#\CSharp编程第一季\031-编程题\obj\Debug\netcoreapp3.1\031-编程题.csproj.CoreCompileInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\031-编程题\obj\Debug\netcoreapp3.1\031-编程题.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\031-编程题\obj\Debug\netcoreapp3.1\031-编程题.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\031-编程题\obj\Debug\netcoreapp3.1\031-编程题.genruntimeconfig.cache

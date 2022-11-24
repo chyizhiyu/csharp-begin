@@ -1,0 +1,27 @@
+E:\VS Workspace\CSharp编程第一季\029-数组\bin\Debug\netcoreapp3.1\029-数组.exe
+E:\VS Workspace\CSharp编程第一季\029-数组\bin\Debug\netcoreapp3.1\029-数组.deps.json
+E:\VS Workspace\CSharp编程第一季\029-数组\bin\Debug\netcoreapp3.1\029-数组.runtimeconfig.json
+E:\VS Workspace\CSharp编程第一季\029-数组\bin\Debug\netcoreapp3.1\029-数组.runtimeconfig.dev.json
+E:\VS Workspace\CSharp编程第一季\029-数组\bin\Debug\netcoreapp3.1\029-数组.dll
+E:\VS Workspace\CSharp编程第一季\029-数组\bin\Debug\netcoreapp3.1\029-数组.pdb
+E:\VS Workspace\CSharp编程第一季\029-数组\obj\Debug\netcoreapp3.1\029-数组.csproj.AssemblyReference.cache
+E:\VS Workspace\CSharp编程第一季\029-数组\obj\Debug\netcoreapp3.1\029-数组.AssemblyInfoInputs.cache
+E:\VS Workspace\CSharp编程第一季\029-数组\obj\Debug\netcoreapp3.1\029-数组.AssemblyInfo.cs
+E:\VS Workspace\CSharp编程第一季\029-数组\obj\Debug\netcoreapp3.1\029-数组.csproj.CoreCompileInputs.cache
+E:\VS Workspace\CSharp编程第一季\029-数组\obj\Debug\netcoreapp3.1\029-数组.dll
+E:\VS Workspace\CSharp编程第一季\029-数组\obj\Debug\netcoreapp3.1\029-数组.pdb
+E:\VS Workspace\CSharp编程第一季\029-数组\obj\Debug\netcoreapp3.1\029-数组.genruntimeconfig.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\029-数组\bin\Debug\netcoreapp3.1\029-数组.exe
+D:\Proj\csharp-begin\C#\CSharp编程第一季\029-数组\bin\Debug\netcoreapp3.1\029-数组.deps.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\029-数组\bin\Debug\netcoreapp3.1\029-数组.runtimeconfig.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\029-数组\bin\Debug\netcoreapp3.1\029-数组.runtimeconfig.dev.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\029-数组\bin\Debug\netcoreapp3.1\029-数组.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\029-数组\bin\Debug\netcoreapp3.1\029-数组.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\029-数组\obj\Debug\netcoreapp3.1\029-数组.csproj.AssemblyReference.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\029-数组\obj\Debug\netcoreapp3.1\029-数组.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proj\csharp-begin\C#\CSharp编程第一季\029-数组\obj\Debug\netcoreapp3.1\029-数组.AssemblyInfoInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\029-数组\obj\Debug\netcoreapp3.1\029-数组.AssemblyInfo.cs
+D:\Proj\csharp-begin\C#\CSharp编程第一季\029-数组\obj\Debug\netcoreapp3.1\029-数组.csproj.CoreCompileInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\029-数组\obj\Debug\netcoreapp3.1\029-数组.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\029-数组\obj\Debug\netcoreapp3.1\029-数组.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\029-数组\obj\Debug\netcoreapp3.1\029-数组.genruntimeconfig.cache

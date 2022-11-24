@@ -1,0 +1,27 @@
+E:\VS Workspace\CSharp编程第一季\001-开始\bin\Debug\netcoreapp3.1\001-开始.exe
+E:\VS Workspace\CSharp编程第一季\001-开始\bin\Debug\netcoreapp3.1\001-开始.deps.json
+E:\VS Workspace\CSharp编程第一季\001-开始\bin\Debug\netcoreapp3.1\001-开始.runtimeconfig.json
+E:\VS Workspace\CSharp编程第一季\001-开始\bin\Debug\netcoreapp3.1\001-开始.runtimeconfig.dev.json
+E:\VS Workspace\CSharp编程第一季\001-开始\bin\Debug\netcoreapp3.1\001-开始.dll
+E:\VS Workspace\CSharp编程第一季\001-开始\bin\Debug\netcoreapp3.1\001-开始.pdb
+E:\VS Workspace\CSharp编程第一季\001-开始\obj\Debug\netcoreapp3.1\001-开始.csproj.AssemblyReference.cache
+E:\VS Workspace\CSharp编程第一季\001-开始\obj\Debug\netcoreapp3.1\001-开始.AssemblyInfoInputs.cache
+E:\VS Workspace\CSharp编程第一季\001-开始\obj\Debug\netcoreapp3.1\001-开始.AssemblyInfo.cs
+E:\VS Workspace\CSharp编程第一季\001-开始\obj\Debug\netcoreapp3.1\001-开始.csproj.CoreCompileInputs.cache
+E:\VS Workspace\CSharp编程第一季\001-开始\obj\Debug\netcoreapp3.1\001-开始.dll
+E:\VS Workspace\CSharp编程第一季\001-开始\obj\Debug\netcoreapp3.1\001-开始.pdb
+E:\VS Workspace\CSharp编程第一季\001-开始\obj\Debug\netcoreapp3.1\001-开始.genruntimeconfig.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\001-开始\bin\Debug\netcoreapp3.1\001-开始.exe
+D:\Proj\csharp-begin\C#\CSharp编程第一季\001-开始\bin\Debug\netcoreapp3.1\001-开始.deps.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\001-开始\bin\Debug\netcoreapp3.1\001-开始.runtimeconfig.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\001-开始\bin\Debug\netcoreapp3.1\001-开始.runtimeconfig.dev.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\001-开始\bin\Debug\netcoreapp3.1\001-开始.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\001-开始\bin\Debug\netcoreapp3.1\001-开始.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\001-开始\obj\Debug\netcoreapp3.1\001-开始.csproj.AssemblyReference.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\001-开始\obj\Debug\netcoreapp3.1\001-开始.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proj\csharp-begin\C#\CSharp编程第一季\001-开始\obj\Debug\netcoreapp3.1\001-开始.AssemblyInfoInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\001-开始\obj\Debug\netcoreapp3.1\001-开始.AssemblyInfo.cs
+D:\Proj\csharp-begin\C#\CSharp编程第一季\001-开始\obj\Debug\netcoreapp3.1\001-开始.csproj.CoreCompileInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\001-开始\obj\Debug\netcoreapp3.1\001-开始.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\001-开始\obj\Debug\netcoreapp3.1\001-开始.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\001-开始\obj\Debug\netcoreapp3.1\001-开始.genruntimeconfig.cache

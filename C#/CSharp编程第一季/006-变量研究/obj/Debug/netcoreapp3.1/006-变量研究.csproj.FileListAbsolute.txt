@@ -1,0 +1,27 @@
+E:\VS Workspace\CSharp编程第一季\006-变量研究\bin\Debug\netcoreapp3.1\006-变量研究.exe
+E:\VS Workspace\CSharp编程第一季\006-变量研究\bin\Debug\netcoreapp3.1\006-变量研究.deps.json
+E:\VS Workspace\CSharp编程第一季\006-变量研究\bin\Debug\netcoreapp3.1\006-变量研究.runtimeconfig.json
+E:\VS Workspace\CSharp编程第一季\006-变量研究\bin\Debug\netcoreapp3.1\006-变量研究.runtimeconfig.dev.json
+E:\VS Workspace\CSharp编程第一季\006-变量研究\bin\Debug\netcoreapp3.1\006-变量研究.dll
+E:\VS Workspace\CSharp编程第一季\006-变量研究\bin\Debug\netcoreapp3.1\006-变量研究.pdb
+E:\VS Workspace\CSharp编程第一季\006-变量研究\obj\Debug\netcoreapp3.1\006-变量研究.AssemblyInfoInputs.cache
+E:\VS Workspace\CSharp编程第一季\006-变量研究\obj\Debug\netcoreapp3.1\006-变量研究.AssemblyInfo.cs
+E:\VS Workspace\CSharp编程第一季\006-变量研究\obj\Debug\netcoreapp3.1\006-变量研究.csproj.CoreCompileInputs.cache
+E:\VS Workspace\CSharp编程第一季\006-变量研究\obj\Debug\netcoreapp3.1\006-变量研究.dll
+E:\VS Workspace\CSharp编程第一季\006-变量研究\obj\Debug\netcoreapp3.1\006-变量研究.pdb
+E:\VS Workspace\CSharp编程第一季\006-变量研究\obj\Debug\netcoreapp3.1\006-变量研究.genruntimeconfig.cache
+E:\VS Workspace\CSharp编程第一季\006-变量研究\obj\Debug\netcoreapp3.1\006-变量研究.csproj.AssemblyReference.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\006-变量研究\bin\Debug\netcoreapp3.1\006-变量研究.exe
+D:\Proj\csharp-begin\C#\CSharp编程第一季\006-变量研究\bin\Debug\netcoreapp3.1\006-变量研究.deps.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\006-变量研究\bin\Debug\netcoreapp3.1\006-变量研究.runtimeconfig.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\006-变量研究\bin\Debug\netcoreapp3.1\006-变量研究.runtimeconfig.dev.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\006-变量研究\bin\Debug\netcoreapp3.1\006-变量研究.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\006-变量研究\bin\Debug\netcoreapp3.1\006-变量研究.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\006-变量研究\obj\Debug\netcoreapp3.1\006-变量研究.csproj.AssemblyReference.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\006-变量研究\obj\Debug\netcoreapp3.1\006-变量研究.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proj\csharp-begin\C#\CSharp编程第一季\006-变量研究\obj\Debug\netcoreapp3.1\006-变量研究.AssemblyInfoInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\006-变量研究\obj\Debug\netcoreapp3.1\006-变量研究.AssemblyInfo.cs
+D:\Proj\csharp-begin\C#\CSharp编程第一季\006-变量研究\obj\Debug\netcoreapp3.1\006-变量研究.csproj.CoreCompileInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\006-变量研究\obj\Debug\netcoreapp3.1\006-变量研究.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\006-变量研究\obj\Debug\netcoreapp3.1\006-变量研究.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\006-变量研究\obj\Debug\netcoreapp3.1\006-变量研究.genruntimeconfig.cache

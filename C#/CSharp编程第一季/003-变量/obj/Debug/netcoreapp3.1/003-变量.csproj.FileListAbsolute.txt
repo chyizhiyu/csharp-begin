@@ -1,0 +1,27 @@
+E:\VS Workspace\CSharp编程第一季\003-变量\bin\Debug\netcoreapp3.1\003-变量.exe
+E:\VS Workspace\CSharp编程第一季\003-变量\bin\Debug\netcoreapp3.1\003-变量.deps.json
+E:\VS Workspace\CSharp编程第一季\003-变量\bin\Debug\netcoreapp3.1\003-变量.runtimeconfig.json
+E:\VS Workspace\CSharp编程第一季\003-变量\bin\Debug\netcoreapp3.1\003-变量.runtimeconfig.dev.json
+E:\VS Workspace\CSharp编程第一季\003-变量\bin\Debug\netcoreapp3.1\003-变量.dll
+E:\VS Workspace\CSharp编程第一季\003-变量\bin\Debug\netcoreapp3.1\003-变量.pdb
+E:\VS Workspace\CSharp编程第一季\003-变量\obj\Debug\netcoreapp3.1\003-变量.csproj.AssemblyReference.cache
+E:\VS Workspace\CSharp编程第一季\003-变量\obj\Debug\netcoreapp3.1\003-变量.AssemblyInfoInputs.cache
+E:\VS Workspace\CSharp编程第一季\003-变量\obj\Debug\netcoreapp3.1\003-变量.AssemblyInfo.cs
+E:\VS Workspace\CSharp编程第一季\003-变量\obj\Debug\netcoreapp3.1\003-变量.csproj.CoreCompileInputs.cache
+E:\VS Workspace\CSharp编程第一季\003-变量\obj\Debug\netcoreapp3.1\003-变量.dll
+E:\VS Workspace\CSharp编程第一季\003-变量\obj\Debug\netcoreapp3.1\003-变量.pdb
+E:\VS Workspace\CSharp编程第一季\003-变量\obj\Debug\netcoreapp3.1\003-变量.genruntimeconfig.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\003-变量\bin\Debug\netcoreapp3.1\003-变量.exe
+D:\Proj\csharp-begin\C#\CSharp编程第一季\003-变量\bin\Debug\netcoreapp3.1\003-变量.deps.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\003-变量\bin\Debug\netcoreapp3.1\003-变量.runtimeconfig.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\003-变量\bin\Debug\netcoreapp3.1\003-变量.runtimeconfig.dev.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\003-变量\bin\Debug\netcoreapp3.1\003-变量.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\003-变量\bin\Debug\netcoreapp3.1\003-变量.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\003-变量\obj\Debug\netcoreapp3.1\003-变量.csproj.AssemblyReference.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\003-变量\obj\Debug\netcoreapp3.1\003-变量.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proj\csharp-begin\C#\CSharp编程第一季\003-变量\obj\Debug\netcoreapp3.1\003-变量.AssemblyInfoInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\003-变量\obj\Debug\netcoreapp3.1\003-变量.AssemblyInfo.cs
+D:\Proj\csharp-begin\C#\CSharp编程第一季\003-变量\obj\Debug\netcoreapp3.1\003-变量.csproj.CoreCompileInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\003-变量\obj\Debug\netcoreapp3.1\003-变量.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\003-变量\obj\Debug\netcoreapp3.1\003-变量.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\003-变量\obj\Debug\netcoreapp3.1\003-变量.genruntimeconfig.cache

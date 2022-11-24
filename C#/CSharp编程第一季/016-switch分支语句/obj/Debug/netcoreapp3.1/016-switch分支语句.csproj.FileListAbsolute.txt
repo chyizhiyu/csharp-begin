@@ -1,0 +1,27 @@
+E:\VS Workspace\CSharp编程第一季\016-switch分支语句\bin\Debug\netcoreapp3.1\016-switch分支语句.exe
+E:\VS Workspace\CSharp编程第一季\016-switch分支语句\bin\Debug\netcoreapp3.1\016-switch分支语句.deps.json
+E:\VS Workspace\CSharp编程第一季\016-switch分支语句\bin\Debug\netcoreapp3.1\016-switch分支语句.runtimeconfig.json
+E:\VS Workspace\CSharp编程第一季\016-switch分支语句\bin\Debug\netcoreapp3.1\016-switch分支语句.runtimeconfig.dev.json
+E:\VS Workspace\CSharp编程第一季\016-switch分支语句\bin\Debug\netcoreapp3.1\016-switch分支语句.dll
+E:\VS Workspace\CSharp编程第一季\016-switch分支语句\bin\Debug\netcoreapp3.1\016-switch分支语句.pdb
+E:\VS Workspace\CSharp编程第一季\016-switch分支语句\obj\Debug\netcoreapp3.1\016-switch分支语句.AssemblyInfoInputs.cache
+E:\VS Workspace\CSharp编程第一季\016-switch分支语句\obj\Debug\netcoreapp3.1\016-switch分支语句.AssemblyInfo.cs
+E:\VS Workspace\CSharp编程第一季\016-switch分支语句\obj\Debug\netcoreapp3.1\016-switch分支语句.csproj.CoreCompileInputs.cache
+E:\VS Workspace\CSharp编程第一季\016-switch分支语句\obj\Debug\netcoreapp3.1\016-switch分支语句.dll
+E:\VS Workspace\CSharp编程第一季\016-switch分支语句\obj\Debug\netcoreapp3.1\016-switch分支语句.pdb
+E:\VS Workspace\CSharp编程第一季\016-switch分支语句\obj\Debug\netcoreapp3.1\016-switch分支语句.genruntimeconfig.cache
+E:\VS Workspace\CSharp编程第一季\016-switch分支语句\obj\Debug\netcoreapp3.1\016-switch分支语句.csproj.AssemblyReference.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\016-switch分支语句\bin\Debug\netcoreapp3.1\016-switch分支语句.exe
+D:\Proj\csharp-begin\C#\CSharp编程第一季\016-switch分支语句\bin\Debug\netcoreapp3.1\016-switch分支语句.deps.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\016-switch分支语句\bin\Debug\netcoreapp3.1\016-switch分支语句.runtimeconfig.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\016-switch分支语句\bin\Debug\netcoreapp3.1\016-switch分支语句.runtimeconfig.dev.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\016-switch分支语句\bin\Debug\netcoreapp3.1\016-switch分支语句.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\016-switch分支语句\bin\Debug\netcoreapp3.1\016-switch分支语句.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\016-switch分支语句\obj\Debug\netcoreapp3.1\016-switch分支语句.csproj.AssemblyReference.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\016-switch分支语句\obj\Debug\netcoreapp3.1\016-switch分支语句.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proj\csharp-begin\C#\CSharp编程第一季\016-switch分支语句\obj\Debug\netcoreapp3.1\016-switch分支语句.AssemblyInfoInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\016-switch分支语句\obj\Debug\netcoreapp3.1\016-switch分支语句.AssemblyInfo.cs
+D:\Proj\csharp-begin\C#\CSharp编程第一季\016-switch分支语句\obj\Debug\netcoreapp3.1\016-switch分支语句.csproj.CoreCompileInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\016-switch分支语句\obj\Debug\netcoreapp3.1\016-switch分支语句.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\016-switch分支语句\obj\Debug\netcoreapp3.1\016-switch分支语句.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\016-switch分支语句\obj\Debug\netcoreapp3.1\016-switch分支语句.genruntimeconfig.cache
