@@ -1,0 +1,26 @@
+E:\VS Workspace\CSharp编程第一季\020-for循环\bin\Debug\netcoreapp3.1\020-for循环.exe
+E:\VS Workspace\CSharp编程第一季\020-for循环\bin\Debug\netcoreapp3.1\020-for循环.deps.json
+E:\VS Workspace\CSharp编程第一季\020-for循环\bin\Debug\netcoreapp3.1\020-for循环.runtimeconfig.json
+E:\VS Workspace\CSharp编程第一季\020-for循环\bin\Debug\netcoreapp3.1\020-for循环.runtimeconfig.dev.json
+E:\VS Workspace\CSharp编程第一季\020-for循环\bin\Debug\netcoreapp3.1\020-for循环.dll
+E:\VS Workspace\CSharp编程第一季\020-for循环\bin\Debug\netcoreapp3.1\020-for循环.pdb
+E:\VS Workspace\CSharp编程第一季\020-for循环\obj\Debug\netcoreapp3.1\020-for循环.AssemblyInfoInputs.cache
+E:\VS Workspace\CSharp编程第一季\020-for循环\obj\Debug\netcoreapp3.1\020-for循环.AssemblyInfo.cs
+E:\VS Workspace\CSharp编程第一季\020-for循环\obj\Debug\netcoreapp3.1\020-for循环.csproj.CoreCompileInputs.cache
+E:\VS Workspace\CSharp编程第一季\020-for循环\obj\Debug\netcoreapp3.1\020-for循环.dll
+E:\VS Workspace\CSharp编程第一季\020-for循环\obj\Debug\netcoreapp3.1\020-for循环.pdb
+E:\VS Workspace\CSharp编程第一季\020-for循环\obj\Debug\netcoreapp3.1\020-for循环.genruntimeconfig.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\020-for循环\bin\Debug\netcoreapp3.1\020-for循环.exe
+D:\Proj\csharp-begin\C#\CSharp编程第一季\020-for循环\bin\Debug\netcoreapp3.1\020-for循环.deps.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\020-for循环\bin\Debug\netcoreapp3.1\020-for循环.runtimeconfig.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\020-for循环\bin\Debug\netcoreapp3.1\020-for循环.runtimeconfig.dev.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\020-for循环\bin\Debug\netcoreapp3.1\020-for循环.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\020-for循环\bin\Debug\netcoreapp3.1\020-for循环.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\020-for循环\obj\Debug\netcoreapp3.1\020-for循环.csproj.AssemblyReference.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\020-for循环\obj\Debug\netcoreapp3.1\020-for循环.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proj\csharp-begin\C#\CSharp编程第一季\020-for循环\obj\Debug\netcoreapp3.1\020-for循环.AssemblyInfoInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\020-for循环\obj\Debug\netcoreapp3.1\020-for循环.AssemblyInfo.cs
+D:\Proj\csharp-begin\C#\CSharp编程第一季\020-for循环\obj\Debug\netcoreapp3.1\020-for循环.csproj.CoreCompileInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\020-for循环\obj\Debug\netcoreapp3.1\020-for循环.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\020-for循环\obj\Debug\netcoreapp3.1\020-for循环.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\020-for循环\obj\Debug\netcoreapp3.1\020-for循环.genruntimeconfig.cache

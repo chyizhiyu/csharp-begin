@@ -1,0 +1,27 @@
+E:\VS Workspace\CSharp编程第一季\036-函数\bin\Debug\netcoreapp3.1\036-函数.exe
+E:\VS Workspace\CSharp编程第一季\036-函数\bin\Debug\netcoreapp3.1\036-函数.deps.json
+E:\VS Workspace\CSharp编程第一季\036-函数\bin\Debug\netcoreapp3.1\036-函数.runtimeconfig.json
+E:\VS Workspace\CSharp编程第一季\036-函数\bin\Debug\netcoreapp3.1\036-函数.runtimeconfig.dev.json
+E:\VS Workspace\CSharp编程第一季\036-函数\bin\Debug\netcoreapp3.1\036-函数.dll
+E:\VS Workspace\CSharp编程第一季\036-函数\bin\Debug\netcoreapp3.1\036-函数.pdb
+E:\VS Workspace\CSharp编程第一季\036-函数\obj\Debug\netcoreapp3.1\036-函数.AssemblyInfoInputs.cache
+E:\VS Workspace\CSharp编程第一季\036-函数\obj\Debug\netcoreapp3.1\036-函数.AssemblyInfo.cs
+E:\VS Workspace\CSharp编程第一季\036-函数\obj\Debug\netcoreapp3.1\036-函数.csproj.CoreCompileInputs.cache
+E:\VS Workspace\CSharp编程第一季\036-函数\obj\Debug\netcoreapp3.1\036-函数.dll
+E:\VS Workspace\CSharp编程第一季\036-函数\obj\Debug\netcoreapp3.1\036-函数.pdb
+E:\VS Workspace\CSharp编程第一季\036-函数\obj\Debug\netcoreapp3.1\036-函数.genruntimeconfig.cache
+E:\VS Workspace\CSharp编程第一季\036-函数\obj\Debug\netcoreapp3.1\036-函数.csproj.AssemblyReference.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\036-函数\bin\Debug\netcoreapp3.1\036-函数.exe
+D:\Proj\csharp-begin\C#\CSharp编程第一季\036-函数\bin\Debug\netcoreapp3.1\036-函数.deps.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\036-函数\bin\Debug\netcoreapp3.1\036-函数.runtimeconfig.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\036-函数\bin\Debug\netcoreapp3.1\036-函数.runtimeconfig.dev.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\036-函数\bin\Debug\netcoreapp3.1\036-函数.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\036-函数\bin\Debug\netcoreapp3.1\036-函数.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\036-函数\obj\Debug\netcoreapp3.1\036-函数.csproj.AssemblyReference.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\036-函数\obj\Debug\netcoreapp3.1\036-函数.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proj\csharp-begin\C#\CSharp编程第一季\036-函数\obj\Debug\netcoreapp3.1\036-函数.AssemblyInfoInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\036-函数\obj\Debug\netcoreapp3.1\036-函数.AssemblyInfo.cs
+D:\Proj\csharp-begin\C#\CSharp编程第一季\036-函数\obj\Debug\netcoreapp3.1\036-函数.csproj.CoreCompileInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\036-函数\obj\Debug\netcoreapp3.1\036-函数.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\036-函数\obj\Debug\netcoreapp3.1\036-函数.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\036-函数\obj\Debug\netcoreapp3.1\036-函数.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\VS Workspace\第二季-面向对象\11-只读字段readonly\bin\Debug\netcoreapp3.1\11-只读字段readonly.exe
+E:\VS Workspace\第二季-面向对象\11-只读字段readonly\bin\Debug\netcoreapp3.1\11-只读字段readonly.deps.json
+E:\VS Workspace\第二季-面向对象\11-只读字段readonly\bin\Debug\netcoreapp3.1\11-只读字段readonly.runtimeconfig.json
+E:\VS Workspace\第二季-面向对象\11-只读字段readonly\bin\Debug\netcoreapp3.1\11-只读字段readonly.runtimeconfig.dev.json
+E:\VS Workspace\第二季-面向对象\11-只读字段readonly\bin\Debug\netcoreapp3.1\11-只读字段readonly.dll
+E:\VS Workspace\第二季-面向对象\11-只读字段readonly\bin\Debug\netcoreapp3.1\11-只读字段readonly.pdb
+E:\VS Workspace\第二季-面向对象\11-只读字段readonly\obj\Debug\netcoreapp3.1\11-只读字段readonly.AssemblyInfoInputs.cache
+E:\VS Workspace\第二季-面向对象\11-只读字段readonly\obj\Debug\netcoreapp3.1\11-只读字段readonly.AssemblyInfo.cs
+E:\VS Workspace\第二季-面向对象\11-只读字段readonly\obj\Debug\netcoreapp3.1\11-只读字段readonly.csproj.CoreCompileInputs.cache
+E:\VS Workspace\第二季-面向对象\11-只读字段readonly\obj\Debug\netcoreapp3.1\11-只读字段readonly.dll
+E:\VS Workspace\第二季-面向对象\11-只读字段readonly\obj\Debug\netcoreapp3.1\11-只读字段readonly.pdb
+E:\VS Workspace\第二季-面向对象\11-只读字段readonly\obj\Debug\netcoreapp3.1\11-只读字段readonly.genruntimeconfig.cache

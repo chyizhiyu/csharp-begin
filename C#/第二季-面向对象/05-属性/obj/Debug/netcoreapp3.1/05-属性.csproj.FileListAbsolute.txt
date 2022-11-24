@@ -1,0 +1,13 @@
+E:\VS Workspace\第二季-面向对象\05-属性\bin\Debug\netcoreapp3.1\05-属性.exe
+E:\VS Workspace\第二季-面向对象\05-属性\bin\Debug\netcoreapp3.1\05-属性.deps.json
+E:\VS Workspace\第二季-面向对象\05-属性\bin\Debug\netcoreapp3.1\05-属性.runtimeconfig.json
+E:\VS Workspace\第二季-面向对象\05-属性\bin\Debug\netcoreapp3.1\05-属性.runtimeconfig.dev.json
+E:\VS Workspace\第二季-面向对象\05-属性\bin\Debug\netcoreapp3.1\05-属性.dll
+E:\VS Workspace\第二季-面向对象\05-属性\bin\Debug\netcoreapp3.1\05-属性.pdb
+E:\VS Workspace\第二季-面向对象\05-属性\obj\Debug\netcoreapp3.1\05-属性.csproj.AssemblyReference.cache
+E:\VS Workspace\第二季-面向对象\05-属性\obj\Debug\netcoreapp3.1\05-属性.AssemblyInfoInputs.cache
+E:\VS Workspace\第二季-面向对象\05-属性\obj\Debug\netcoreapp3.1\05-属性.AssemblyInfo.cs
+E:\VS Workspace\第二季-面向对象\05-属性\obj\Debug\netcoreapp3.1\05-属性.csproj.CoreCompileInputs.cache
+E:\VS Workspace\第二季-面向对象\05-属性\obj\Debug\netcoreapp3.1\05-属性.dll
+E:\VS Workspace\第二季-面向对象\05-属性\obj\Debug\netcoreapp3.1\05-属性.pdb
+E:\VS Workspace\第二季-面向对象\05-属性\obj\Debug\netcoreapp3.1\05-属性.genruntimeconfig.cache

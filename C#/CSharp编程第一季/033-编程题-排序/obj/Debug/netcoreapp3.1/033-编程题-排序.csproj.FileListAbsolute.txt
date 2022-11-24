@@ -1,0 +1,27 @@
+E:\VS Workspace\CSharp编程第一季\033-编程题-排序\bin\Debug\netcoreapp3.1\033-编程题-排序.exe
+E:\VS Workspace\CSharp编程第一季\033-编程题-排序\bin\Debug\netcoreapp3.1\033-编程题-排序.deps.json
+E:\VS Workspace\CSharp编程第一季\033-编程题-排序\bin\Debug\netcoreapp3.1\033-编程题-排序.runtimeconfig.json
+E:\VS Workspace\CSharp编程第一季\033-编程题-排序\bin\Debug\netcoreapp3.1\033-编程题-排序.runtimeconfig.dev.json
+E:\VS Workspace\CSharp编程第一季\033-编程题-排序\bin\Debug\netcoreapp3.1\033-编程题-排序.dll
+E:\VS Workspace\CSharp编程第一季\033-编程题-排序\bin\Debug\netcoreapp3.1\033-编程题-排序.pdb
+E:\VS Workspace\CSharp编程第一季\033-编程题-排序\obj\Debug\netcoreapp3.1\033-编程题-排序.AssemblyInfoInputs.cache
+E:\VS Workspace\CSharp编程第一季\033-编程题-排序\obj\Debug\netcoreapp3.1\033-编程题-排序.AssemblyInfo.cs
+E:\VS Workspace\CSharp编程第一季\033-编程题-排序\obj\Debug\netcoreapp3.1\033-编程题-排序.csproj.CoreCompileInputs.cache
+E:\VS Workspace\CSharp编程第一季\033-编程题-排序\obj\Debug\netcoreapp3.1\033-编程题-排序.dll
+E:\VS Workspace\CSharp编程第一季\033-编程题-排序\obj\Debug\netcoreapp3.1\033-编程题-排序.pdb
+E:\VS Workspace\CSharp编程第一季\033-编程题-排序\obj\Debug\netcoreapp3.1\033-编程题-排序.genruntimeconfig.cache
+E:\VS Workspace\CSharp编程第一季\033-编程题-排序\obj\Debug\netcoreapp3.1\033-编程题-排序.csproj.AssemblyReference.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\033-编程题-排序\bin\Debug\netcoreapp3.1\033-编程题-排序.exe
+D:\Proj\csharp-begin\C#\CSharp编程第一季\033-编程题-排序\bin\Debug\netcoreapp3.1\033-编程题-排序.deps.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\033-编程题-排序\bin\Debug\netcoreapp3.1\033-编程题-排序.runtimeconfig.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\033-编程题-排序\bin\Debug\netcoreapp3.1\033-编程题-排序.runtimeconfig.dev.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\033-编程题-排序\bin\Debug\netcoreapp3.1\033-编程题-排序.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\033-编程题-排序\bin\Debug\netcoreapp3.1\033-编程题-排序.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\033-编程题-排序\obj\Debug\netcoreapp3.1\033-编程题-排序.csproj.AssemblyReference.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\033-编程题-排序\obj\Debug\netcoreapp3.1\033-编程题-排序.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proj\csharp-begin\C#\CSharp编程第一季\033-编程题-排序\obj\Debug\netcoreapp3.1\033-编程题-排序.AssemblyInfoInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\033-编程题-排序\obj\Debug\netcoreapp3.1\033-编程题-排序.AssemblyInfo.cs
+D:\Proj\csharp-begin\C#\CSharp编程第一季\033-编程题-排序\obj\Debug\netcoreapp3.1\033-编程题-排序.csproj.CoreCompileInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\033-编程题-排序\obj\Debug\netcoreapp3.1\033-编程题-排序.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\033-编程题-排序\obj\Debug\netcoreapp3.1\033-编程题-排序.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\033-编程题-排序\obj\Debug\netcoreapp3.1\033-编程题-排序.genruntimeconfig.cache

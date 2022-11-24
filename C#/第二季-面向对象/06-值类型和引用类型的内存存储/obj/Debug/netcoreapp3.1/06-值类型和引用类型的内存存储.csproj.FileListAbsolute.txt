@@ -1,0 +1,13 @@
+E:\VS Workspace\第二季-面向对象\06-值类型和引用类型的内存存储\bin\Debug\netcoreapp3.1\06-值类型和引用类型的内存存储.exe
+E:\VS Workspace\第二季-面向对象\06-值类型和引用类型的内存存储\bin\Debug\netcoreapp3.1\06-值类型和引用类型的内存存储.deps.json
+E:\VS Workspace\第二季-面向对象\06-值类型和引用类型的内存存储\bin\Debug\netcoreapp3.1\06-值类型和引用类型的内存存储.runtimeconfig.json
+E:\VS Workspace\第二季-面向对象\06-值类型和引用类型的内存存储\bin\Debug\netcoreapp3.1\06-值类型和引用类型的内存存储.runtimeconfig.dev.json
+E:\VS Workspace\第二季-面向对象\06-值类型和引用类型的内存存储\bin\Debug\netcoreapp3.1\06-值类型和引用类型的内存存储.dll
+E:\VS Workspace\第二季-面向对象\06-值类型和引用类型的内存存储\bin\Debug\netcoreapp3.1\06-值类型和引用类型的内存存储.pdb
+E:\VS Workspace\第二季-面向对象\06-值类型和引用类型的内存存储\obj\Debug\netcoreapp3.1\06-值类型和引用类型的内存存储.csproj.AssemblyReference.cache
+E:\VS Workspace\第二季-面向对象\06-值类型和引用类型的内存存储\obj\Debug\netcoreapp3.1\06-值类型和引用类型的内存存储.AssemblyInfoInputs.cache
+E:\VS Workspace\第二季-面向对象\06-值类型和引用类型的内存存储\obj\Debug\netcoreapp3.1\06-值类型和引用类型的内存存储.AssemblyInfo.cs
+E:\VS Workspace\第二季-面向对象\06-值类型和引用类型的内存存储\obj\Debug\netcoreapp3.1\06-值类型和引用类型的内存存储.csproj.CoreCompileInputs.cache
+E:\VS Workspace\第二季-面向对象\06-值类型和引用类型的内存存储\obj\Debug\netcoreapp3.1\06-值类型和引用类型的内存存储.dll
+E:\VS Workspace\第二季-面向对象\06-值类型和引用类型的内存存储\obj\Debug\netcoreapp3.1\06-值类型和引用类型的内存存储.pdb
+E:\VS Workspace\第二季-面向对象\06-值类型和引用类型的内存存储\obj\Debug\netcoreapp3.1\06-值类型和引用类型的内存存储.genruntimeconfig.cache

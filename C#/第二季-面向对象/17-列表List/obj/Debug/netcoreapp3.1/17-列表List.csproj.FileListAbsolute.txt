@@ -1,0 +1,13 @@
+E:\VS Workspace\第二季-面向对象\17-列表List\bin\Debug\netcoreapp3.1\17-列表List.exe
+E:\VS Workspace\第二季-面向对象\17-列表List\bin\Debug\netcoreapp3.1\17-列表List.deps.json
+E:\VS Workspace\第二季-面向对象\17-列表List\bin\Debug\netcoreapp3.1\17-列表List.runtimeconfig.json
+E:\VS Workspace\第二季-面向对象\17-列表List\bin\Debug\netcoreapp3.1\17-列表List.runtimeconfig.dev.json
+E:\VS Workspace\第二季-面向对象\17-列表List\bin\Debug\netcoreapp3.1\17-列表List.dll
+E:\VS Workspace\第二季-面向对象\17-列表List\bin\Debug\netcoreapp3.1\17-列表List.pdb
+E:\VS Workspace\第二季-面向对象\17-列表List\obj\Debug\netcoreapp3.1\17-列表List.AssemblyInfoInputs.cache
+E:\VS Workspace\第二季-面向对象\17-列表List\obj\Debug\netcoreapp3.1\17-列表List.AssemblyInfo.cs
+E:\VS Workspace\第二季-面向对象\17-列表List\obj\Debug\netcoreapp3.1\17-列表List.csproj.CoreCompileInputs.cache
+E:\VS Workspace\第二季-面向对象\17-列表List\obj\Debug\netcoreapp3.1\17-列表List.dll
+E:\VS Workspace\第二季-面向对象\17-列表List\obj\Debug\netcoreapp3.1\17-列表List.pdb
+E:\VS Workspace\第二季-面向对象\17-列表List\obj\Debug\netcoreapp3.1\17-列表List.genruntimeconfig.cache
+E:\VS Workspace\第二季-面向对象\17-列表List\obj\Debug\netcoreapp3.1\17-列表List.csproj.AssemblyReference.cache

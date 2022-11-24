@@ -1,0 +1,14 @@
+D:\Proj\csharp-begin\C#\CSharp编程第一季\021-变量的作用域\bin\Debug\netcoreapp3.1\021-变量的作用域.exe
+D:\Proj\csharp-begin\C#\CSharp编程第一季\021-变量的作用域\bin\Debug\netcoreapp3.1\021-变量的作用域.deps.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\021-变量的作用域\bin\Debug\netcoreapp3.1\021-变量的作用域.runtimeconfig.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\021-变量的作用域\bin\Debug\netcoreapp3.1\021-变量的作用域.runtimeconfig.dev.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\021-变量的作用域\bin\Debug\netcoreapp3.1\021-变量的作用域.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\021-变量的作用域\bin\Debug\netcoreapp3.1\021-变量的作用域.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\021-变量的作用域\obj\Debug\netcoreapp3.1\021-变量的作用域.csproj.AssemblyReference.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\021-变量的作用域\obj\Debug\netcoreapp3.1\021-变量的作用域.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proj\csharp-begin\C#\CSharp编程第一季\021-变量的作用域\obj\Debug\netcoreapp3.1\021-变量的作用域.AssemblyInfoInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\021-变量的作用域\obj\Debug\netcoreapp3.1\021-变量的作用域.AssemblyInfo.cs
+D:\Proj\csharp-begin\C#\CSharp编程第一季\021-变量的作用域\obj\Debug\netcoreapp3.1\021-变量的作用域.csproj.CoreCompileInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\021-变量的作用域\obj\Debug\netcoreapp3.1\021-变量的作用域.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\021-变量的作用域\obj\Debug\netcoreapp3.1\021-变量的作用域.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\021-变量的作用域\obj\Debug\netcoreapp3.1\021-变量的作用域.genruntimeconfig.cache

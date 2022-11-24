@@ -1,0 +1,27 @@
+E:\VS Workspace\CSharp编程第一季\026-循环嵌套\bin\Debug\netcoreapp3.1\026-循环嵌套.exe
+E:\VS Workspace\CSharp编程第一季\026-循环嵌套\bin\Debug\netcoreapp3.1\026-循环嵌套.deps.json
+E:\VS Workspace\CSharp编程第一季\026-循环嵌套\bin\Debug\netcoreapp3.1\026-循环嵌套.runtimeconfig.json
+E:\VS Workspace\CSharp编程第一季\026-循环嵌套\bin\Debug\netcoreapp3.1\026-循环嵌套.runtimeconfig.dev.json
+E:\VS Workspace\CSharp编程第一季\026-循环嵌套\bin\Debug\netcoreapp3.1\026-循环嵌套.dll
+E:\VS Workspace\CSharp编程第一季\026-循环嵌套\bin\Debug\netcoreapp3.1\026-循环嵌套.pdb
+E:\VS Workspace\CSharp编程第一季\026-循环嵌套\obj\Debug\netcoreapp3.1\026-循环嵌套.AssemblyInfoInputs.cache
+E:\VS Workspace\CSharp编程第一季\026-循环嵌套\obj\Debug\netcoreapp3.1\026-循环嵌套.AssemblyInfo.cs
+E:\VS Workspace\CSharp编程第一季\026-循环嵌套\obj\Debug\netcoreapp3.1\026-循环嵌套.csproj.CoreCompileInputs.cache
+E:\VS Workspace\CSharp编程第一季\026-循环嵌套\obj\Debug\netcoreapp3.1\026-循环嵌套.dll
+E:\VS Workspace\CSharp编程第一季\026-循环嵌套\obj\Debug\netcoreapp3.1\026-循环嵌套.pdb
+E:\VS Workspace\CSharp编程第一季\026-循环嵌套\obj\Debug\netcoreapp3.1\026-循环嵌套.genruntimeconfig.cache
+E:\VS Workspace\CSharp编程第一季\026-循环嵌套\obj\Debug\netcoreapp3.1\026-循环嵌套.csproj.AssemblyReference.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\026-循环嵌套\bin\Debug\netcoreapp3.1\026-循环嵌套.exe
+D:\Proj\csharp-begin\C#\CSharp编程第一季\026-循环嵌套\bin\Debug\netcoreapp3.1\026-循环嵌套.deps.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\026-循环嵌套\bin\Debug\netcoreapp3.1\026-循环嵌套.runtimeconfig.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\026-循环嵌套\bin\Debug\netcoreapp3.1\026-循环嵌套.runtimeconfig.dev.json
+D:\Proj\csharp-begin\C#\CSharp编程第一季\026-循环嵌套\bin\Debug\netcoreapp3.1\026-循环嵌套.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\026-循环嵌套\bin\Debug\netcoreapp3.1\026-循环嵌套.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\026-循环嵌套\obj\Debug\netcoreapp3.1\026-循环嵌套.csproj.AssemblyReference.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\026-循环嵌套\obj\Debug\netcoreapp3.1\026-循环嵌套.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proj\csharp-begin\C#\CSharp编程第一季\026-循环嵌套\obj\Debug\netcoreapp3.1\026-循环嵌套.AssemblyInfoInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\026-循环嵌套\obj\Debug\netcoreapp3.1\026-循环嵌套.AssemblyInfo.cs
+D:\Proj\csharp-begin\C#\CSharp编程第一季\026-循环嵌套\obj\Debug\netcoreapp3.1\026-循环嵌套.csproj.CoreCompileInputs.cache
+D:\Proj\csharp-begin\C#\CSharp编程第一季\026-循环嵌套\obj\Debug\netcoreapp3.1\026-循环嵌套.dll
+D:\Proj\csharp-begin\C#\CSharp编程第一季\026-循环嵌套\obj\Debug\netcoreapp3.1\026-循环嵌套.pdb
+D:\Proj\csharp-begin\C#\CSharp编程第一季\026-循环嵌套\obj\Debug\netcoreapp3.1\026-循环嵌套.genruntimeconfig.cache
