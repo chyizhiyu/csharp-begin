@@ -1,7 +1,0 @@
-D:\Proj\csharp-begin\csharp-project\CSharp-Project\bin\Debug\CSharp_Project.exe
-D:\Proj\csharp-begin\csharp-project\CSharp-Project\bin\Debug\CSharp_Project.pdb
-D:\Proj\csharp-begin\csharp-project\CSharp-Project\obj\Debug\CSharp-Project.csproj.AssemblyReference.cache
-D:\Proj\csharp-begin\csharp-project\CSharp-Project\obj\Debug\CSharp-Project.csproj.SuggestedBindingRedirects.cache
-D:\Proj\csharp-begin\csharp-project\CSharp-Project\obj\Debug\CSharp-Project.csproj.CoreCompileInputs.cache
-D:\Proj\csharp-begin\csharp-project\CSharp-Project\obj\Debug\CSharp_Project.exe
-D:\Proj\csharp-begin\csharp-project\CSharp-Project\obj\Debug\CSharp_Project.pdb
